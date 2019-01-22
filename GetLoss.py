@@ -5,7 +5,7 @@
 
 import json
 import requests
-import tweepy 
+import tweepy
 
 # Meraki
 keys_file = open("keys.txt")
@@ -51,12 +51,12 @@ loss_percent = json.dumps(lp).replace('"', '')
 
 print("Loss percentage for 'Lab3 MX68' is {}".format(loss_percent))
 
-# Tweepy authentication of consumer key and secret 
-auth = tweepy.OAuthHandler(consumer_key, consumer_secret) 
-  
-# Tweepy authentication of access token and secret 
-auth.set_access_token(access_token, access_token_secret) 
-api = tweepy.API(auth) 
-  
-# update the status 
-api.update_status(status = status_msg + "{}%.".format(loss_percent)) 
+# Tweepy authentication of consumer key and secret
+auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+
+# Tweepy authentication of access token and secret
+auth.set_access_token(access_token, access_token_secret)
+api = tweepy.API(auth)
+
+# update the status
+api.update_status(status = status_msg + "{}%.".format(loss_percent))
