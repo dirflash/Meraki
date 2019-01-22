@@ -1,3 +1,6 @@
+# This script pulls the loss percentage off of the WAN interface on
+# my Meraki MX68 firewall
+
 import json
 import requests
 
