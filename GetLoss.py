@@ -11,13 +11,19 @@ import tweepy
 keys_file = open("keys.txt")
 lines = keys_file.readlines()
 Meraki_API_Key = lines[0].rstrip()
-LandLurl = lines[1].rstrip()
+Meraki_Net = lines[1].rstrip()
+Meraki_Device = lines[2].rstrip()
+base_url = "https://api.meraki.com/api/v0/networks/"
+device_url = "/devices/"
+loss_url = "/lossAndLatencyHistory"
+
+LandLurl = base_url + Meraki_Net + device_url + Meraki_Device + loss_url
 
 # Tweepy
-consumer_key = lines[2].rstrip()
-consumer_secret = lines[3].rstrip()
-access_token = lines[4].rstrip()
-access_token_secret = lines[5].rstrip()
+consumer_key = lines[3].rstrip()
+consumer_secret = lines[4].rstrip()
+access_token = lines[5].rstrip()
+access_token_secret = lines[6].rstrip()
 status_msg = "Hello Everyone! Using a bit of Python programming.  I am able to determine that the loss percentage for the WAN interace on my Meraki Lab3 MX68 is "
 
 payload = ""
