@@ -1,0 +1,291 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Land",
+				"LandLresponse"
+			],
+			[
+				"M",
+				"Meraki_API_Key\tstatement"
+			],
+			[
+				"high",
+				"highlighted_data"
+			],
+			[
+				"list",
+				"list_qty\tstatement"
+			],
+			[
+				"reson",
+				"response_data\tstatement"
+			],
+			[
+				"res",
+				"response_data\tstatement"
+			],
+			[
+				"j",
+				"json_resps\tstatement"
+			],
+			[
+				"star",
+				"starships_str\tparam"
+			],
+			[
+				"st",
+				"starships_str\tparam"
+			],
+			[
+				"resp",
+				"resp3\tstatement"
+			],
+			[
+				"starship",
+				"starships_str\tstatement"
+			],
+			[
+				"js",
+				"json_resp\tstatement"
+			],
+			[
+				"stars",
+				"starships_str"
+			],
+			[
+				"starsh",
+				"starships_str\tstatement"
+			],
+			[
+				"respon",
+				"respond_data"
+			],
+			[
+				"stat",
+				"stat_code"
+			],
+			[
+				"people",
+				"people_url\tstatement"
+			],
+			[
+				"pe",
+				"people_url"
+			],
+			[
+				"urlif",
+				"urlified_people"
+			],
+			[
+				"starships",
+				"starships"
+			],
+			[
+				"get",
+				"get_url\tparam"
+			],
+			[
+				"response_data",
+				"response_data_1\tstatement"
+			],
+			[
+				"sw_c",
+				"sw_char_str\tstatement"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 65273))"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/python_code/Meraki/GetLoss/GetLoss.py",
+		"/C/python_code/Meraki/GetLoss/GetLoss2.py",
+		"/C/Users/aarodavi/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/aarodavi/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/python_code/SWAPI/swapi_luke.py",
+		"/C/python_code/dne-security-code/dne-security-fmc-code/fmc_access_policies.py",
+		"/C/python_code/dne-security-code/amp-code/step2.py",
+		"/C/python_code/dne-security-code/dne-security-0day-missions-labs/Amp1.py",
+		"/C/python_code/dne-security-code/dne-security-fdm-code/1_fdm_auth.py",
+		"/C/python_code/dne-security-code/ise-code/isepolicy.py",
+		"/C/Users/aarodavi/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/aarodavi/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/aarodavi/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/aarodavi/test-repo/new-file.txt",
+		"/C/Users/aarodavi/test-repo/myfile.txt",
+		"/C/python_code/Meraki/codedepot.py",
+		"/C/python_code/sample.py",
+		"/C/Users/aarodavi/AppData/Local/Programs/Python/Python37-32/lib/collections/__init__.py"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "GetLoss.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
