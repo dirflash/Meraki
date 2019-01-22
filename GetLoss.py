@@ -59,4 +59,4 @@ auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth)
 
 # update the status
-api.update_status(status = status_msg + "{}%.".format(loss_percent))
+api.update_status(status=status_msg + "{}%.".format(loss_percent))
