@@ -24,7 +24,7 @@ consumer_key = lines[3].rstrip()
 consumer_secret = lines[4].rstrip()
 access_token = lines[5].rstrip()
 access_token_secret = lines[6].rstrip()
-status_msg = "Hello Everyone! Using a bit of Python programming.  I am able to determine that the loss percentage for the WAN interace on my Meraki Lab3 MX68 is "
+status_msg = "Hello Everyone! Using a bit of Python programming, I am able to determine that the loss percentage for the WAN interace on my Meraki Lab3 MX68 is "
 
 payload = ""
 
